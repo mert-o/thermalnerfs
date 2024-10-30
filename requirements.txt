@@ -1,0 +1,25 @@
+rich
+tqdm
+ninja
+numpy 
+scipy
+lpips
+pandas
+trimesh
+PyMCubes
+torch-ema
+dearpygui
+packaging
+matplotlib
+tensorboardX
+opencv-python
+imageio
+imageio-ffmpeg
+pymeshlab
+xatlas
+scikit-learn
+torchmetrics
+
+# torch-scatter
+torch_efficient_distloss
+git+https://github.com/NVlabs/nvdiffrast/
